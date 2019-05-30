@@ -1,4 +1,4 @@
-package SortingProblems;
+
 class MergeSort 
 { 
 	// Merges two subarrays of arr[]. 
